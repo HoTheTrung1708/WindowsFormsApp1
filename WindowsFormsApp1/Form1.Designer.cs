@@ -139,7 +139,7 @@
             this.PerformLayout();
 
         }
-         
+        
         #endregion
 
         private System.Windows.Forms.PictureBox player;
