@@ -134,7 +134,7 @@ namespace WindowsFormsApp1
                     player.Left -= 20;
                 }
             }
-        }
+        } 
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
